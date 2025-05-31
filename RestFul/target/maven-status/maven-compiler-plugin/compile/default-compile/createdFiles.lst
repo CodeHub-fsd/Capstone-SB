@@ -1,0 +1,6 @@
+com\stackroute\RestFul\model\User.class
+com\stackroute\RestFul\service\UserServiceImpl.class
+com\stackroute\RestFul\RestFulApplication.class
+com\stackroute\RestFul\controller\UserController.class
+com\stackroute\RestFul\repository\UserRepository.class
+com\stackroute\RestFul\service\UserService.class
